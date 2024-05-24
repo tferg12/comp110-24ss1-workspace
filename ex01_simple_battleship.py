@@ -1,6 +1,6 @@
-"""EX01 - Simple Battleship"""
+"""EX01 - Simple Battleship."""
 
-__author__ = 730460559
+__author__ = "730460559"
 
 boat_location_str: str = input("Pick a secret boat location between 1 and 4:")
 boat_location: int = int(boat_location_str)
